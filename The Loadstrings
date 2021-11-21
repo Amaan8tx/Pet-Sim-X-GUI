@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/95HthyJq"))()
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Schervi/FloppaHub/main/FloppaHubMain.lua"))()
